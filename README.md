@@ -176,3 +176,8 @@ Para ejecutar las pruebas unitarias:
 ./vendor/bin/phpunit
 ```
 [1]: https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
+
+---
+[CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN](https://github.com/APIHub-CdC/licencias-cdc)
+
+[1]: https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos
